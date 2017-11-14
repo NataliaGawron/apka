@@ -1,0 +1,9 @@
+.todo-item {
+    font-size: 20px;
+    color: pink;
+    border: 2px dashed orangered;
+    padding: 5px 10px;
+    width: 30%;
+    margin: 0 auto;
+    
+  }
